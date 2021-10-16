@@ -31,7 +31,7 @@
     "postcss-mixins": "^6.2.1",
     "postcss-simple-vars": "^5.0.2",
     "precss": "^4.0.0",
-    "uglify-js": "^3.6.0",
+    "uglify-js": "^3.14.2",
     "xml2js": "^0.4.19"
   },
   "devDependencies": {
